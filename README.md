@@ -168,13 +168,3 @@ dotnet run --project src/TeamsApi/TeamsApi.csproj
 * **Swagger UI:** [http://localhost:5000/swagger](http://localhost:5000/swagger)
 * **Список команд:** [http://localhost:5000/api/team](http://localhost:5000/api/team)
 
----
-
-## Инструкция по отправке в GitHub
-
-1. Создайте пустой репозиторий на GitHub (например, `Web_service_development_modul_04-pra_04`).
-2. В терминале в папке `Web_service_development_modul_04-pra_04` выполните:
-   ```bash
-   git remote add origin https://github.com/<ВАШ_АККАУНТ>/<ИМЯ_РЕПОЗИТОРИЯ>.git
-   git push -u origin main
-   ```
